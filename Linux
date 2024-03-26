@@ -1,0 +1,2 @@
+touch file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt file7.txt file8.txt file9.txt file10.txt file11.txt file12.txt file13.txt file14.txt file15.txt file16.txt file17.txt file18.txt file19.txt file20.txt
+mv file1.txt file1.yml; file2.txt file2.yml; file3.txt file3.yml; file4.txt file4.yml; file5.txt file5.yml | ls *.yml
